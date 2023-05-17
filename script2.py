@@ -1,0 +1,1 @@
+print('Explicit is better than implicit.')
